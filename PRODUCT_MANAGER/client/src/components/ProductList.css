@@ -1,0 +1,13 @@
+.productList {
+    width: 50%;
+    height: 80%;
+    margin: 1% auto;
+    display: block;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightsteelblue;
+    padding: 25px;
+    border-radius: 5px;
+    border: 5px solid lavender;
+    color: white;
+}
